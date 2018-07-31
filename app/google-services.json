@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472388359140",
+    "firebase_url": "https://explore-tashkent.firebaseio.com",
+    "project_id": "explore-tashkent",
+    "storage_bucket": "explore-tashkent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472388359140:android:becbbddfdc5c74b4",
+        "android_client_info": {
+          "package_name": "com.example.madina.exploretashkent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472388359140-ebm2gu75pbm5ii83v2rm2sqc4qq7torj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madina.exploretashkent",
+            "certificate_hash": "7850d6ada6be79673b2ee754ae27a50b0ac8e0dc"
+          }
+        },
+        {
+          "client_id": "472388359140-8tqtpbo87ec91g771ha16mij36efhlrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyi3dfZcJ1p2tWFVUWwAvI_EPx1Qm9DE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472388359140-8tqtpbo87ec91g771ha16mij36efhlrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a091b</color>
+    <color name="colorPrimaryDark">#070716</color>
+    <color name="colorAccent">#F2B01E</color>
+    <color name="rippleColorEffect">#f816a463</color>
+    <color name="homebackground">#fcfcfc</color>
+
+    <color name="purple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkgreen">#19ac67</color>
+    <color name="pink">#ff1081</color>
+    <color name="lightgray">#ededed</color>
+    <color name="marker">#e72211</color>
+    <color name="btnSignIn">#1fbad6</color>
+    <color name="btnRegister">#83838c</color>
+    <!--<color name="rating">#F2B01E</color>-->
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+</resources>
